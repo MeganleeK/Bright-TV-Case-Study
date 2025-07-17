@@ -1,25 +1,41 @@
-# Bright-TV-Case-Study
-Bright TV Viewership Analytics 
-CASE STUDY: BrightTV (Viewership Analytics) 
+# 📺 Bright TV Viewership Analytics (Bright-TV-Case-Study)
 
-BrightTV ‘s CEO has an objective to grow the company’s subscription base for this financial 
-year. He has approached you to provide insights that would assist CVM (Customer Value 
-Management) team in meeting this year’s objective. 
-The dataset attached contains information on the user profiles and viewer transactions for 
-BrightTV. 
+## 📌 Purpose  
+Support **BrightTV’s CEO** and the **Customer Value Management (CVM)** team with actionable insights to help grow the company’s **subscription base** for this financial year.
 
-Please prepare a 20 min presentation covering the following topics: 
-• Provide insights on user and usage trends of BrightTV. 
-• What type of factors influence consumption? 
-• What content would you recommend to increase consumption on the days with low 
-consumption? 
-• What type of initiatives would you recommend to further grow BrightTV ‘s User base. 
+---
 
-Notes: 
-• Times and dates in the dataset are supplied in UTC and should be converted to SA 
-time. 
-• Consumption is split per session, i.e. for every session a subscriber has, there will be 
-1 record. 
-• Any additional data that may assist in the presentation is welcomed.
+## 📖 Introduction  
+This project analyzes a dataset containing **user profiles** and **viewer transactions** for **BrightTV**.  
+The goal is to extract meaningful patterns that can drive **higher consumption**, improve **content strategy**, and expand the **subscriber base**.
 
-Thank You.
+All data analysis and visualizations were conducted using **Microsoft Excel**.
+
+Times and dates in the dataset were converted from **UTC to South African Time (SAST)** for accurate trend analysis.
+
+---
+
+## 🎯 Objectives  
+This case study covers:  
+- 📈 Insights on **user and usage trends**  
+- ⚙️ Factors that influence **viewership and consumption**  
+- 🎬 Recommended content to boost viewership on low-consumption days  
+- 🚀 Suggested **initiatives** to expand BrightTV’s user base
+
+---
+
+## ✅ Tools & Technologies  
+- **Microsoft Excel:** Data cleaning, analysis, and visualization
+
+---
+
+## 📝 Key Insights & Recommendations  
+The final **20-minute presentation** includes:  
+- Trends and patterns in viewership  
+- Factors driving or limiting consumption  
+- Content recommendations for low-consumption days  
+- Practical initiatives to help grow the subscriber base
+
+Additional external data may be incorporated if relevant.
+
+-
